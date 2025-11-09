@@ -642,10 +642,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-<div align="center">
-  <img src="public/polyseer.svg" alt="Omnisense" width="200"/>
-  
-  **Built for HackASU 2025 🚀**
-  
-  *AI-Powered Prediction Market Analysis*
+**Built for HackASU 2025 🚀**
+
+_AI-Powered Prediction Market Analysis_
+
 </div>
